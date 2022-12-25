@@ -1,0 +1,3 @@
+id,物品名,具体描述,存放地点,联系人电话,联系人邮箱,物品类型,物品主人,属性
+1,xiaoxin laptop,a laptop with full functions,上海,df,df,electronics,afd,"{'颜色': '银色', '品牌': 'Lianxiang', '尺寸': '13.3寸', '配置': 'i5'}"
+2,iphone,a phone with high-edged technology,上海,df,df,electronics,adf,"{'颜色': '白色', '品牌': 'Apple', '尺寸': '5寸', '配置': '..'}"

@@ -1,0 +1,4 @@
+id,物品名,具体描述,存放地点,联系人电话,联系人邮箱,物品类型,物品主人,属性
+1,bread,daf,山东,dsfnak,dsfnak,food,df,"{'保质期': '12', '品牌': 'aaa'}"
+2,icecream,dfa,辽宁,dsfnak,dsfnak,food,afd,"{'保质期': '12', '品牌': 'bbb'}"
+3,123,df,af,,df,food,afd,{'状态': 'e'}
